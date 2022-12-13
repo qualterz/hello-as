@@ -1,3 +1,3 @@
 export function formatHello(string: String): String {
-  return `Hello, ${string}!`
+  return `Hello to ${string} from AssemblyScript!`
 }
